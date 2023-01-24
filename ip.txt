@@ -1,0 +1,135 @@
+IP                   : 151.60.50.92
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : WhatsApp/2.23.1.76 A
+Browser              : Unknown Browser
+Location             : Vinovo, Italy, Europe
+GeoLocation(lat, lon): 44.9464454, 7.6327043
+Currency             : Euro
+IP                   : 151.60.50.92
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+User Agent           : Mozilla/5.0 (Linux; Android 12; T676K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Vinovo, Italy, Europe
+GeoLocation(lat, lon): 44.9464454, 7.6327043
+Currency             : Euro
+IP                   : 151.60.50.92
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+User Agent           : Mozilla/5.0 (Linux; Android 12; 2201117TY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Vinovo, Italy, Europe
+GeoLocation(lat, lon): 44.9464454, 7.6327043
+Currency             : Euro
+IP                   : 85.18.30.38
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+User Agent           : Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A202F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Milan, Italy, Europe
+GeoLocation(lat, lon): 45.4654219, 9.1859243
+Currency             : Euro
+IP                   : 151.60.50.92
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : WhatsApp/2.23.1.76 A
+Browser              : Unknown Browser
+Location             : Vinovo, Italy, Europe
+GeoLocation(lat, lon): 44.9464454, 7.6327043
+Currency             : Euro
+IP                   : 151.60.50.92
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+User Agent           : Mozilla/5.0 (Linux; Android 12; 2201117TY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Vinovo, Italy, Europe
+GeoLocation(lat, lon): 44.9464454, 7.6327043
+Currency             : Euro
+IP                   : 85.18.30.104
+IP Type              : IPv4
+User OS              : Android
+Version              : 13;
+User Agent           : Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Milan, Italy, Europe
+GeoLocation(lat, lon): 45.4654219, 9.1859243
+Currency             : Euro
+IP                   : 151.60.50.92
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : WhatsApp/2.23.1.76 A
+Browser              : Unknown Browser
+Location             : Vinovo, Italy, Europe
+GeoLocation(lat, lon): 44.9464454, 7.6327043
+Currency             : Euro
+IP                   : 151.60.50.92
+IP Type              : IPv4
+User OS              : Android
+Version              : 12;
+User Agent           : Mozilla/5.0 (Linux; Android 12; 2201117TY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Vinovo, Italy, Europe
+GeoLocation(lat, lon): 44.9464454, 7.6327043
+Currency             : Euro
+IP                   : 85.18.0.135
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+User Agent           : Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A750FN) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36
+Browser              : Handheld Browser
+Location             : Rome, Italy, Europe
+GeoLocation(lat, lon): 41.9027835, 12.4963655
+Currency             : Euro
+IP                   : 34.243.191.111
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/22.1.146053689 Mobile/14D27 Safari/600.1.4
+Browser              : Handheld Browser
+Location             : Dublin, Ireland, Europe
+GeoLocation(lat, lon): 53.3165322, -6.3425318
+Currency             : Euro
+IP                   : 173.252.127.23
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/109.0.5414.83 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Washington, United States, North America
+GeoLocation(lat, lon): 38.9071923, -77.0368707
+Currency             : US Dollar
+IP                   : 151.33.148.62
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+User Agent           : WhatsApp/2.23.1.76 A
+Browser              : Unknown Browser
+Location             : Collegno, Italy, Europe
+GeoLocation(lat, lon): 45.0787054, 7.566241
+Currency             : Euro
+IP                   : 37.103.215.2
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Tortona, Italy, Europe
+GeoLocation(lat, lon): 44.8952122, 8.8633326
+Currency             : Euro
+IP                   : 37.103.215.2
+IP Type              : IPv4
+User OS              : iPhone
+Version              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+Browser              : Handheld Browser
+Location             : Tortona, Italy, Europe
+GeoLocation(lat, lon): 44.8952122, 8.8633326
+Currency             : Euro
