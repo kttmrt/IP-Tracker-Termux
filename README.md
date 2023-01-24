@@ -5,6 +5,12 @@ HOW TO INSTALL: type in TERMUX this commands:
 
 apt update & apt upgrade
 
+git clone https://github.com/KasRoudra/IP-Tracker
+
+cd IP-Tracker
+
+bash ip.sh
+
 
 
 
