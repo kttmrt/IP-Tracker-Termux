@@ -1,2 +1,10 @@
 # IP-Tracker-Termux
-Track ip with a masked link
+TRACK IP WITH A MASKED LINK (send to victims)
+
+HOW TO INSTALL: type in TERMUX this commands:
+
+apt update & apt upgrade
+
+
+
+
