@@ -5,7 +5,7 @@ HOW TO INSTALL: type in TERMUX this commands:
 
 apt update & apt upgrade
 
-git clone https://github.com/kttmrt/IP-Tracker
+git clone https://github.com/kttmrt/IP-Tracker-Termux
 
 cd IP-Tracker
 
